@@ -18,7 +18,7 @@ Hi,I'm Andrea Atza🙌, a Junior Web Developer! Apart from that I love Arts, Lit
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently looking for an internship.
-- 🌱 I’m currently learning React and Three.js
+- 🌱 I’m currently learning React and .Net
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything ✌
 - 📫 How to reach me: <a href="mailto:atzadevops@gmail.com">Send me an e-mail!<a/> 
