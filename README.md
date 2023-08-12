@@ -15,7 +15,7 @@ Hi,I'm Andrea Atza🙌, a Junior Web Developer! Apart from that I love Arts, Lit
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🔭 I’m currently looking for an internship.
 - 🌱 I’m currently learning React and Java
