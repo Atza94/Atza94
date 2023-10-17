@@ -1,5 +1,6 @@
-### Hello World 👋 It's Atza! <!--insert portfolio--> 
+# Hello World 👋 It's Atza! <!--insert portfolio--> 
 
+  ## [_Curriculum Vitae_](https://github.com/Atza94/Atza94/files/12929486/ATZA.ANDREA.CV.JD.pdf)
 <br/>
 
 <a href="https://www.linkedin.com/in/andrea-atza-5ab519102/">
