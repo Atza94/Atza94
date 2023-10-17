@@ -9,7 +9,7 @@
 
 <br />
 
-Hi,I'm Andrea Atza🙌, a Junior Web Developer! Apart from that I love Arts, Literature, Chess  and Problem Solving.❤✌ 
+Hi, I'm Andrea Atza🙌, a Junior Web Developer! Apart from that I love Arts, Literature, Chess, and Problem Solving.❤✌ 
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
